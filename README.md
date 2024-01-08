@@ -118,4 +118,10 @@ Update the products.json file with your product information, including names, pr
    ![Appium Inspector Capabilities](https://github.com/rksahani/Android-Automation-Testing-Project/assets/108575531/f7334de1-9d36-4d7b-9770-8978aa7c3286)
 
 4. Using Android Studio to monitor the work Flow.
+   Here is one example for complete purchage of an item.
+   
+
+https://github.com/rksahani/Android-Automation-Testing-Project/assets/108575531/00b4d4a2-d10b-4236-88d1-ff59d7249251
+
+
 5. Finally, execute the tests! 
